@@ -1,1 +1,1 @@
-# spark_scala_example
+# simple-scala-spark-gradle
